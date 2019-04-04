@@ -17,3 +17,8 @@ e.g.
 # List
 
 - RIDE ON TIME - 山下達郎 (https://www.youtube.com/watch?v=Cwx2PDmeHd4)
+- Africa - Toto (https://www.youtube.com/watch?v=FTQbiNvZqaY)
+- Everybody Wants to Rule the World - Tears for Fears (https://www.youtube.com/watch?v=aGCdLKXNF3w)
+- Wannabe - Spice Girls (https://www.youtube.com/watch?v=gJLIiF15wjQ)
+- Ironic - Alanis Morissette (https://www.youtube.com/watch?v=Jne9t8sHpUc)
+- Crazy - Gnarls Barkley (https://www.youtube.com/watch?v=-N4jf6rtyuw)
